@@ -8,5 +8,5 @@ An widget called RecyclerViewPager based on ViewPager which supports horizontal 
 
 2.Vertical
 
-   ![image](https://github.com/yuyuyu123/RecyclerViewPager/blob/master/screenshot1.gif)
+   ![image](https://github.com/yuyuyu123/RecyclerViewPager/blob/master/screenshot2.gif)
 
